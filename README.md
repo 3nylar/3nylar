@@ -6,10 +6,6 @@ I design and build scalable, user-first digital experiences where clean code mee
 Relentlessly curious. Constantly shipping. Always leveling up.
 </h3>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=3nylar&label=Profile%20views&color=0e75b6&style=flat" alt="3nylar profile views" />
-</p>
-
 ---
 
 ### 🚀 What I’m Focused On
