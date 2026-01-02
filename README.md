@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enilara Aedfila</h1>
+<h1 align="center">Hi 👋, I'm Enilara Adefila</h1>
 <h3 align="center">
 Frontend Developer • Creative Technologist • UI/UX Enthusiast 🇳🇬  
 <br />
@@ -28,7 +28,6 @@ Relentlessly curious. Constantly shipping. Always leveling up.
   <a href="https://twitter.com/3nylahra" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
-  <br>
   <a href="https://www.linkedin.com/in/adebukolaadefila" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
@@ -36,15 +35,13 @@ Relentlessly curious. Constantly shipping. Always leveling up.
   <a href="https://instagram.com/3ny._lahra" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
-  <br>
   <a href="https://dribbble.com/aenilara24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40"/>
   </a>
   <br>  
   <a href="https://www.behance.net/laradesign-devs" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"/>
-  </a
-  <br>
+  </a>
   <a href="https://www.geeksforgeeks.org/user/adefilaade1n7v/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
   </a>
