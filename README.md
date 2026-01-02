@@ -45,10 +45,6 @@ Relentlessly curious. Constantly shipping. Always leveling up.
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"/>
   </a
   <br>
-  <a href="https://leetcode.com/u/enilara/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-  <br>
   <a href="https://www.geeksforgeeks.org/user/adefilaade1n7v/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
   </a>
