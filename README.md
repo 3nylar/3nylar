@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enilara Adefila</h1>
+<h1 align="center">Hi, I'm Enilara Adefila</h1>
 <h3 align="center">
 Frontend Developer • Creative Technologist • UI/UX Enthusiast 🇳🇬  
 <br />
@@ -8,22 +8,22 @@ Relentlessly curious. Constantly shipping. Always leveling up.
 
 ---
 
-### 🚀 What I’m Focused On
-- 🌱 Actively building with **React, Next.js, Tailwind CSS, and Node.js**
-- 🎨 Deepening **UI/UX design intuition** through hands-on projects and curated learning (Scrimba, freeCodeCamp)
-- 🧠 Turning messy ideas into **structured, creative, production-ready code**
+### What I’m Focused On
+- Actively building with **React, Next.js, Tailwind CSS, and Node.js**
+- Deepening **UI/UX design intuition** through hands-on projects and curated learning (Scrimba, freeCodeCamp)
+- Turning messy ideas into **structured, creative, production-ready code**
 
-### 💬 Let’s Talk About
+### Let’s Talk About
 - Frontend architecture & clean component design  
 - Bridging design systems with real-world code  
 - How to turn creative chaos into scalable solutions
 
-### 📫 Reach Me
+### Reach Me
 <p><b>Email:</b> <a href="mailto:adefila.ea@gmail/com"><i>adefila.ea@gmail.com</i></a></p>
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="left">
   <a href="https://twitter.com/3nylahra" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
@@ -49,7 +49,7 @@ Relentlessly curious. Constantly shipping. Always leveling up.
 
 ---
 
-### 🛠 Languages & Tools
+### Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <br>
@@ -64,7 +64,7 @@ Relentlessly curious. Constantly shipping. Always leveling up.
 
 ---
 
-### ☕ Support My Work
+### Support My Work
 <p>
   <a href="https://www.buymeacoffee.com/adefilaade4">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
