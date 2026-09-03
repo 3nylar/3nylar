@@ -31,14 +31,12 @@ Relentlessly curious. Constantly shipping. Always leveling up.
   <a href="https://www.linkedin.com/in/adebukolaadefila" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <br>
   <a href="https://instagram.com/3ny._lahra" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
   <a href="https://dribbble.com/aenilara24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40"/>
   </a>
-  <br>  
   <a href="https://www.behance.net/laradesign-devs" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"/>
   </a>
